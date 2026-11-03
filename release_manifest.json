@@ -1,0 +1,12 @@
+{
+ "version": "v1.0",
+ "asset": "Eyeshield21MDP_NDS_KO_v1.0.xdelta",
+ "asset_size": 1004144,
+ "asset_sha256": "1ed7d96fa6785bf76f7cecf126bb3bdd3dd3a8ff88e9ece31947ae05a1ed9398",
+ "source_size": 67108864,
+ "source_md5": "8f542d7696de824dfe5b75fcc898c84b",
+ "source_sha256": "de41574fdbe7d8ecbbfbe03fc87befa673ca20f8537a09187036c1df2aefc248",
+ "result_nds_size": 64829608,
+ "result_nds_md5": "b9bb1fbf4009543a4de2d8830eaccdf4",
+ "result_nds_sha256": "252540e9f9660fdb4d3068128e8153c7b9c744fe0517ba874816b97f8c6af21e"
+}
